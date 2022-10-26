@@ -3,5 +3,5 @@
 ###### This is an H6 header
 
 ## Summary
-This repisityory contains all of the notes taken by [Vicki](https://github.com/vicki928/lighthouse-data-notes.git)() for the Lighthouse Labs Data Science Bootcamp.
+This repisityory contains all of the notes taken by [Vicki](https://github.com/vicki928/lighthouse-data-notes.git) for the Lighthouse Labs Data Science Bootcamp.
 
