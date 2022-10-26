@@ -8,7 +8,7 @@ To help you figure out how to use `hungry` and `availableTime` inside your funct
 
 
 '''javescript
-function whatToDoForLunch(hungry, availableTime) {
+function whatToDoForLunch(hungry, availableTime 12:00PM) {
   console.log("hungry is", hungry);
   console.log("availableTime is", availableTime);
 }
