@@ -7,4 +7,4 @@ This repisityory contains all of the notes taken by [Vicki](https://github.com/v
 
 ## Tale of Contents 
 * [Unit 1](/Unit_1)
-* [Day 1](/Unit_1/Day_1)
+  * [Day 1](/Unit_1/Day_1)
